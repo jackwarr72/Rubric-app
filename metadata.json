@@ -1,0 +1,5 @@
+{
+  "name": "RubricAI Assessor",
+  "description": "An interactive language assessment tool for teachers. Load rubric templates, grade students interactively, and generate AI-powered feedback using Gemini.",
+  "requestFramePermissions": []
+}
